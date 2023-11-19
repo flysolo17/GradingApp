@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GradingApp</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="filipino">Filipino</string>
+    <string name="compute_average">Compute Average</string>
+    <string name="average">Average</string>
+</resources>
